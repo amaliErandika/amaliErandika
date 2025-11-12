@@ -36,16 +36,16 @@ I love solving problems, building apps, and experimenting with tools that make d
 
 ### 🚀 Projects
 
-#### 📱 [My Study Hub – Android App](#)
+#### 📱 [My Study Hub – Android App](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
 A mobile app that helps students manage study schedules, to-do lists, and marks using Firebase.  
 *Tech:* Android Studio, Firebase  
 
-#### ✅ [Task Reminder Web App](#)
+#### ✅ [Task Reminder Web App](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
 A to-do list web application built with React and Firebase, deployed using a CI/CD pipeline.  
 *Tech:* React.js, Firebase, GitHub Actions  
 
-#### 📊 [Excel Dashboard – Student Performance](#)
-An Excel dashboard to visualize and analyze student performance data.  
+#### 📊 [Excel Dashboard – Call Center Performance Dashboard ](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
+Designed an interactive call center dashboard analyzing 1,000+ calls and $96K in revenue  
 *Tech:* Microsoft Excel (Charts, Pivot Tables)  
 
 ---
