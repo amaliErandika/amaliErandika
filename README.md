@@ -44,7 +44,7 @@ A mobile app that helps students manage study schedules, to-do lists, and marks 
 A to-do list web application built with React and Firebase, deployed using a CI/CD pipeline.  
 *Tech:* React.js, Firebase, GitHub Actions  
 
-#### 📊 [Excel Dashboard – Call Center Performance Dashboard ](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
+#### 📊 [Excel Dashboard – Call Center Performance Dashboard ](https://github.com/amaliErandika/Call_Center_Report)
 Designed an interactive call center dashboard analyzing 1,000+ calls and $96K in revenue  
 *Tech:* Microsoft Excel (Charts, Pivot Tables)  
 
