@@ -1,53 +1,64 @@
-<h1 align="center">Hi 👋, I'm Amali Erandika</h1>
-<h3 align="center">🎓 IT Undergraduate | 🌱 Lifelong Learner</h3>
+### 👋 Hi, I’m **Amali Erandika**
+🎓 *Undergraduate in Information Technology*  
+💻 *Passionate about learning, building projects, and exploring different areas in IT.*
 
 ---
 
-### 🌟 About Me
-- 🎓 I'm currently pursuing a degree in **Information Technology**
-- 🌱 Actively learning **Python, SQL, Power BI**, and **Data Analysis**
-- 💡 Interested in **Web Development**, and **Data Analytics**
-- 💬 Always open to learning and collaborating on exciting tech projects
+### 🧠 About Me  
+I’m an enthusiastic IT undergraduate who enjoys creating real-world projects and learning new technologies.  
+I love solving problems, building apps, and experimenting with tools that make development easier and more efficient.  
+
+🌱 **Currently learning:** Advanced web development & version control  
+💬 **Ask me about:** HTML, CSS, React, Android Studio, Firebase, Git/GitHub  
+🎯 **Goal:** To gain hands-on experience through an internship and grow as an IT professional  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
-| Language | Tools | Frameworks |
-|----------|-------|------------|
-| Python 🐍 | Power BI 📊 | React.js ⚛️ |
-| SQL 💾 | Git & GitHub | Node.js |
-| JavaScript 🟨 | MySQL | Firebase |
-| HTML/CSS 🎨 | Streamlit | 
-| Excel 📊 | Google Colab | Android Studio |
+#### 💻 Development
+- HTML, CSS, JavaScript  
+- React.js  
+- Android Studio (Java / XML)
 
----
+#### 🗄️ Databases & Cloud
+- Firebase  
+- MySQL  
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmaliErandika&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmaliErandika&theme=radical" height="180" />
-</p>
-
----
-
-### 📌 Projects
-
-A few projects I have completed:
-
-- ✅ **Task Reminder Web App** – React + Firebase To-Do App with CI/CD pipeline    
-- 📱 **Educational Mobile App** – Built with Android Studio and Firestore to support student learning  
-- 🏥 **Hospital Dashboard (Excel)** – Visualized key metrics like patient counts, admissions, and occupancy rates  
-- ☎️ **Call Center Dashboard (Excel)** – Tracked KPIs such as call volume, agent performance, and customer satisfaction
+#### ⚙️ Tools & Platforms
+- Git & GitHub  
+- Google Colab  
+- Streamlit  
+- Figma (UI/UX Design)  
+- Microsoft Excel  
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Projects
 
-- 📧 Email: amalierandika22@gmail.com
+#### 📱 [My Study Hub – Android App](#)
+A mobile app that helps students manage study schedules, to-do lists, and marks using Firebase.  
+*Tech:* Android Studio, Firebase  
 
+#### ✅ [Task Reminder Web App](#)
+A to-do list web application built with React and Firebase, deployed using a CI/CD pipeline.  
+*Tech:* React.js, Firebase, GitHub Actions  
+
+#### 📊 [Excel Dashboard – Student Performance](#)
+An Excel dashboard to visualize and analyze student performance data.  
+*Tech:* Microsoft Excel (Charts, Pivot Tables)  
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to explore, fork, and contribute. Let's grow together!*
+### 📈 GitHub Stats  
+![Amali’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Amali-erandika&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect With Me  
+- 📧 Email: amalierandika22@gmail.com  
+
+---
+
+### ✨ Quote I Follow  
+> “The best way to learn is by doing — every project teaches something new.”
