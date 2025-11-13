@@ -36,11 +36,11 @@ I love solving problems, building apps, and experimenting with tools that make d
 
 ### 🚀 Projects
 
-#### 📱 [My Study Hub – Android App](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
+#### 📱 [My Study Hub – Android App](https://github.com/DManjula98/ITBIN-2211-0189_GAE-Ganhewage)
 A mobile app that helps students manage study schedules, to-do lists, and marks using Firebase.  
 *Tech:* Android Studio, Firebase  
 
-#### ✅ [Task Reminder Web App](https://github.com/DilrukshiManjula07/sql-data-analytics-project.git)
+#### ✅ [To Do Web App](https://github.com/DManjula98/ITBIN-2211-0189)
 A to-do list web application built with React and Firebase, deployed using a CI/CD pipeline.  
 *Tech:* React.js, Firebase, GitHub Actions  
 
